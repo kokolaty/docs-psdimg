@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pm9sx6.kujang138bos.online/sitemap.xml
